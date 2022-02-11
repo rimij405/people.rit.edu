@@ -1,5 +1,8 @@
-# Ignore .ssh folder.
+# Ignore user configuration.
 .git/
-.gitconfig
 .ssh/
+.gitconfig
 .bash_history
+.bashrc
+.history
+
