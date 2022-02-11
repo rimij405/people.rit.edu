@@ -1,2 +1,5 @@
 # Ignore .ssh folder.
+.git/
+.gitconfig
 .ssh/
+.bash_history
